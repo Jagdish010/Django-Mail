@@ -1,0 +1,17 @@
+.container {
+	max-width: inherit;
+	width: 100%;
+	height: calc(100vh - 17px);
+	background-color: aliceblue;
+}
+
+.frame-holder {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.label {
+	text-align: right;
+	font-size: 12px;
+}
